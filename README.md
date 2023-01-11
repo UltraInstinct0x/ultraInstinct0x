@@ -15,7 +15,7 @@
 <details>
   <summary>Some of my Github Public Stats :computer:</summary>
   
-  <a href="https://gokhansarapevi.github.io"><img src="https://github.com/gokhansarapevi/gokhansarapevi/raw/main/etc/laptop.png" align="right" height="200" /></a>
+  <a href="https://gokhansarapevi.github.io"><img src="https://github.com/gokhansarapevi/gokhansarapevi/raw/main/etc/laptop.png" align="right" height="250" /></a>
 
   [![My Github Stats](https://github-readme-stats.vercel.app/api?username=gokhansarapevi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/gokhansarapevi)
 
@@ -27,7 +27,7 @@
 <details>
   <summary>Find me around the web :globe_with_meridians:</summary>
   
-  <a href="https://gokhansarapevi.github.io"><img src="https://github.com/gokhansarapevi/gokhansarapevi/raw/main/etc/think.png" align="right" height="150" /></a>
+  <a href="https://gokhansarapevi.github.io"><img src="https://github.com/gokhansarapevi/gokhansarapevi/raw/main/etc/think.png" align="right" height="250" /></a>
   
 [![DEV Badge](https://img.shields.io/badge/-gokhanguney-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/gokhansarapevi)
 [![StackOverflow Badge](https://img.shields.io/badge/-gokhanguney-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/20094769/g%c3%b6khan-g%c3%bcney?tab=profile)
@@ -35,4 +35,6 @@
 [![Reddit Badge](https://img.shields.io/badge/-u/daftdey-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/gokhansarapevi/ "Find on Reddit")
 
 </details>
-[![Profile last updated](https://img.shields.io/github/last-commit/gokhansarapevi/gokhansarapevi/main?label=Last%20updated&style=flat)](https://github.com//gokhansarapevi/gokhansarapevi/commits)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokhansarapevi)
+![![Profile last updated](https://img.shields.io/github/last-commit/gokhansarapevi/gokhansarapevi/main?label=Last%20updated&style=flat)](https://github.com//gokhansarapevi/gokhansarapevi/commits)
