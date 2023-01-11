@@ -1,4 +1,4 @@
-## Hi there, [Gokhan](https://gokhansarapevi.github.io) here 👋🏼👨🏻‍💻
+## Hi there, [Gokhan](https://gokhansarapevi.github.io) here 👋🏼👨🏻🌈
 
 [![Gmail Badge](https://img.shields.io/badge/-gokhansarapevi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gokhansarapevi@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Gokhan%20Guney-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gokhansarapevi/ "Connect on LinkedIn")
@@ -15,7 +15,7 @@ I am currently working on creating an AI powered lecture planner & study coach f
 - 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
 
 <details>
-  <summary>Most Used Languages According to my Github :globe:</summary>
+  <summary>Most Used Languages According to my Github :sunrise_over_mountains: </summary>
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokhansarapevi)
 </details>
 
