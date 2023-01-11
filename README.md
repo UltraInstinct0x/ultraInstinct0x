@@ -17,9 +17,9 @@ I am currently working on creating an AI powered lecture planner & study coach f
 <details>
   <summary>Most Used Languages According to my Github :sunrise_over_mountains: </summary>
   
-  <a href="https://gokhansarapevi.github.io"><img src="https://github.com/gokhansarapevi/gokhansarapevi/raw/main/etc/laptop.png" align="left" height="250" /></a>
+  <a href="https://gokhansarapevi.github.io"><img src="https://github.com/gokhansarapevi/gokhansarapevi/raw/main/etc/think.png" align="right" height="250" /></a>
   
-  <a href="#" align="right">![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokhansarapevi)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokhansarapevi)
   ----
 </details>
 
@@ -32,8 +32,7 @@ I am currently working on creating an AI powered lecture planner & study coach f
 
 <details>
   <summary>Find me around the web :globe_with_meridians:</summary>
-  
-  <a href="https://gokhansarapevi.github.io"><img src="https://github.com/gokhansarapevi/gokhansarapevi/raw/main/etc/think.png" align="right" height="250" /></a>
+  <a href="https://gokhansarapevi.github.io"><img src="https://github.com/gokhansarapevi/gokhansarapevi/raw/main/etc/laptop.png" align="right" height="250" /></a>
   
 [![DEV Badge](https://img.shields.io/badge/-gokhanguney-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/gokhansarapevi)
 [![StackOverflow Badge](https://img.shields.io/badge/-gokhanguney-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/20094769/g%c3%b6khan-g%c3%bcney?tab=profile)
