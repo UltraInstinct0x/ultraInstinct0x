@@ -19,7 +19,7 @@ I am currently working on creating an AI powered lecture planner & study coach f
   
   <a href="https://gokhansarapevi.github.io"><img src="https://github.com/gokhansarapevi/gokhansarapevi/raw/main/etc/laptop.png" align="left" height="250" /></a>
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokhansarapevi)
+  <a href="#" align="right">![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokhansarapevi)
   ----
 </details>
 
