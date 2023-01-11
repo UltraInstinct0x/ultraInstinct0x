@@ -16,7 +16,9 @@ I am currently working on creating an AI powered lecture planner & study coach f
 
 <details>
   <summary>Most Used Languages According to my Github :sunrise_over_mountains: </summary>
+  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokhansarapevi)
+  ----
 </details>
 
 <details>
