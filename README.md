@@ -14,6 +14,8 @@ I am currently working on creating an AI powered lecture planner & study coach f
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 - 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokhansarapevi)
+
 <details>
   <summary>Some of my Github Public Stats :computer:</summary>
   
@@ -38,5 +40,4 @@ I am currently working on creating an AI powered lecture planner & study coach f
 
 </details>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokhansarapevi)
-![![Profile last updated](https://img.shields.io/github/last-commit/gokhansarapevi/gokhansarapevi/main?label=Last%20updated&style=flat)](https://github.com/gokhansarapevi/gokhansarapevi/commits)
+[![Profile last updated](https://img.shields.io/github/last-commit/gokhansarapevi/gokhansarapevi/main?label=Last%20updated&style=flat)](https://github.com/gokhansarapevi/gokhansarapevi/commits)
