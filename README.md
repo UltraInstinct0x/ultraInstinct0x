@@ -14,7 +14,10 @@ I am currently working on creating an AI powered lecture planner & study coach f
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 - 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokhansarapevi)
+<details>
+  <summary>Most Used Languages According to my Github :globe:</summary>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokhansarapevi)
+</details>
 
 <details>
   <summary>Some of my Github Public Stats :computer:</summary>
@@ -22,9 +25,6 @@ I am currently working on creating an AI powered lecture planner & study coach f
   <a href="https://gokhansarapevi.github.io"><img src="https://github.com/gokhansarapevi/gokhansarapevi/raw/main/etc/laptop.png" align="right" height="250" /></a>
 
   [![My Github Stats](https://github-readme-stats.vercel.app/api?username=gokhansarapevi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/gokhansarapevi)
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=gokhansarapevi&color=blue)
-  ----
   
 </details>
 
@@ -41,3 +41,5 @@ I am currently working on creating an AI powered lecture planner & study coach f
 </details>
 
 [![Profile last updated](https://img.shields.io/github/last-commit/gokhansarapevi/gokhansarapevi/main?label=Last%20updated&style=flat)](https://github.com/gokhansarapevi/gokhansarapevi/commits)
+![Profile Views](https://komarev.com/ghpvc/?username=gokhansarapevi&color=blue)
+----
