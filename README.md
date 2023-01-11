@@ -17,14 +17,14 @@ I am currently working on creating an AI powered lecture planner & study coach f
 <details>
   <summary>Most Used Languages According to my Github :sunrise_over_mountains: </summary>
   
+  <a href="https://gokhansarapevi.github.io"><img src="https://github.com/gokhansarapevi/gokhansarapevi/raw/main/etc/laptop.png" align="left" height="250" /></a>
+  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokhansarapevi)
   ----
 </details>
 
 <details>
   <summary>Some of my Github Public Stats :computer:</summary>
-  
-  <a href="https://gokhansarapevi.github.io"><img src="https://github.com/gokhansarapevi/gokhansarapevi/raw/main/etc/laptop.png" align="right" height="250" /></a>
 
   [![My Github Stats](https://github-readme-stats.vercel.app/api?username=gokhansarapevi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/gokhansarapevi)
   
