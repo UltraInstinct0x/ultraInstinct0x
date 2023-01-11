@@ -7,6 +7,8 @@
 
 <a href="https://gokhansarapevi.github.io"><img src="https://github.com/gokhansarapevi/gokhansarapevi/raw/main/etc/hand_v.png" align="right" height="275" /></a>
 
+I am currently working on creating an AI powered lecture planner & study coach for Teachers and Students. Reach out to learn more!
+
 - 📭 [Reach out](#hi-there-Gokhan-here-) for help with Open Source projects!
 - 💬 Talk to me about literature, rave, and everything in between
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
