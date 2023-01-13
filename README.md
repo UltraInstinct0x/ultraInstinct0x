@@ -25,21 +25,32 @@ I am currently working on creating an AI powered lecture planner & study coach f
 
 <details>
   <summary>Some of my Github Public Stats :computer:</summary>
-  <a href="https://gokhansarapevi.github.io"><img src="https://github.com/gokhansarapevi/gokhansarapevi/raw/main/etc/laptop.png" align="right" height="250" /></a>
   
+  <a href="https://gokhansarapevi.github.io"><img src="https://github.com/gokhansarapevi/gokhansarapevi/raw/main/etc/laptop.png" align="right" height="250" /></a>
+  <br /> 
   [![My Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gokhansarapevi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/gokhansarapevi)
   
 </details>
 
 <details>
   <summary>Find me around the web :globe_with_meridians:</summary>
-
+ <br /> 
+  
 [![DEV Badge](https://img.shields.io/badge/-gokhanguney-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/gokhansarapevi)
 [![StackOverflow Badge](https://img.shields.io/badge/-gokhanguney-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/20094769/g%c3%b6khan-g%c3%bcney?tab=profile)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/gokhansarapevi/ "Follow on Instagram")
 [![Reddit Badge](https://img.shields.io/badge/-u/gokhansarapevi-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/gokhansarapevi/ "Find on Reddit")
 
 </details>
+
+<details>
+  <summary>My latest blog post :books:</summary>
+<br /> 
+  
+[![Gokhan Guney Medium](https://github-readme-medium.vercel.app/?username=gokhanguney)](https://medium.com/@gokhanguney)
+
+</details>
+
 
 [![Profile last updated](https://img.shields.io/github/last-commit/gokhansarapevi/gokhansarapevi/main?label=Last%20updated&style=flat)](https://github.com/gokhansarapevi/gokhansarapevi/commits)
 ![Profile Views](https://komarev.com/ghpvc/?username=gokhansarapevi&color=blue)
