@@ -7,9 +7,11 @@
 [![Telegram Badge](https://img.shields.io/badge/-@dball_goku-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/dball_goku "Contact on Telegram")
 [![Twitter Badge](https://img.shields.io/badge/-@gokuinnovates-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=gokuinnovates "Follow on Twitter")
 
-<a href="https://gokhansarapevi.github.io"><img src="https://cdn.discordapp.com/attachments/1203065884990644250/1206515379761975316/Goku_Dragon.png?ex=65dc4a02&is=65c9d502&hm=1b448c942ab9b1cc7e504bb1f2b0417ab9124a26e003375f1a41050621527c6b&" align="right" height="190" /></a>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gokhansarapevi&repo=SonGokuBot&theme=tokyonight)](https://github.com/gokhansarapevi/SonGokuBot)
+<a href="https://gokhansarapevi.github.io"><img src="https://cdn.discordapp.com/attachments/1203065884990644250/1206515379761975316/Goku_Dragon.png?ex=65dc4a02&is=65c9d502&hm=1b448c942ab9b1cc7e504bb1f2b0417ab9124a26e003375f1a41050621527c6b&" align="right" height="250" /></a>
+
 I am currently working on creating an AI powered lecture planner & a discord bot. Reach out to learn more! Developing Tails on Apple M chips.
+<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gokhansarapevi&repo=SonGokuBot&theme=tokyonight)](https://github.com/gokhansarapevi/SonGokuBot)
 ## <img src="https://cdn.discordapp.com/emojis/859424401186095114.png" width="20px" height="20px">》Description 
 
 - 📭 [Reach out](#hi-there-Gokhan-here-) for help with Open Source projects!
