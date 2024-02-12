@@ -1,4 +1,4 @@
-## <a href="https://gokhansarapevi.github.io"><img src="https://github.com/gokhansarapevi/gokhansarapevi/raw/main/header.png"/></a>
+## <a href="https://gokhansarapevi.github.io"><img src="https://cdn.discordapp.com/attachments/1203065884990644250/1206333264227209316/DALLE_2024-02-11_23.17.27_-_Create_a_detailed_preview_of_an_animated_image_for_a_GitHub_readme._The_image_should_prominently_feature_the_text_SonGokuBot_in_the_center_and_be_th.webp?ex=65dba066&is=65c92b66&hm=225ddf02e2da8d30b85bbfaf83a73b956ce7b59422bc2fbf12912bd187cb1f2b&"/></a>
 
 ## Hi there, [Gokhan](https://gokhansarapevi.github.io) here 👋🏼👨🏻🌈
 
@@ -23,7 +23,7 @@ I am currently working on developing Tails for Apple M chips. & a discord bot. R
 <details>
   <summary>Most Used Languages According to my Github :sunrise_over_mountains: </summary>
   
-  <a href="https://gokhansarapevi.github.io"><img src="https://github.com/gokhansarapevi/gokhansarapevi/raw/main/etc/think.png" align="right" height="250" /></a>
+  <a href="https://gokhansarapevi.github.io"><img src="https://cdn.discordapp.com/attachments/1203065884990644250/1206691224954732564/Goku_Green.png?ex=65dcedc7&is=65ca78c7&hm=3d23f9464b990cbe697260a946cf89b1604059d5519f1bc26029e5538466983c&" align="right" height="250" /></a>
   
   ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gokhansarapevi)
   ----
@@ -32,7 +32,7 @@ I am currently working on developing Tails for Apple M chips. & a discord bot. R
 <details>
   <summary>Some of my Github Public Stats :computer:</summary>
   
-  <a href="https://gokhansarapevi.github.io"><img src="https://github.com/gokhansarapevi/gokhansarapevi/raw/main/etc/laptop.png" align="right" height="250" /></a>
+  <a href="https://gokhansarapevi.github.io"><img src="https://cdn.discordapp.com/attachments/1203065884990644250/1206691225571299348/goku-super-saiyan-god-standing-removebg-preview.png?ex=65dcedc7&is=65ca78c7&hm=41b082a5a419587f63ba9272dd81d384ab0c5d836ef9056a51d276c9950f2f1b&" align="right" height="250" /></a>
   <br /> 
   [![My Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gokhansarapevi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/gokhansarapevi)
   
