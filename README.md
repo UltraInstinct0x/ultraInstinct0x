@@ -39,6 +39,8 @@ I am currently working on developing Tails for Apple M chips. & a discord bot. R
 </details>
 
 <details>
+  <a href="https://gokhansarapevi.github.io"><img src="https://cdn.discordapp.com/attachments/1203065884990644250/1207064287072358460/Goku-removebg-preview.png?ex=65de4938&is=65cbd438&hm=b0bd6a3f28d6993eaed44b9645eb266a0dd0d3cbb275dac545c7c6af024554c0&" align="right" height="290" /></a>
+  <br /> 
   <summary>Find me around the web :globe_with_meridians:</summary>
  <br /> 
   
