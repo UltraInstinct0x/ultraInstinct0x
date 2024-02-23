@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-gokhansarapevi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gokhansarapevi@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Gokhan%20Guney-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gokhansarapevi/ "Connect on LinkedIn")
 [![Telegram Badge](https://img.shields.io/badge/-@dball_goku-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/dball_goku "Contact on Telegram")
-[![Twitter Badge](https://img.shields.io/badge/-@gokuinnovates-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=gokuinnovates "Follow on Twitter")
+[![X Follow](https://img.shields.io/twitter/follow/gokuinnovates?style=flat&logo=X&logoColor=white&color=%2300000)](https://twitter.com/intent/follow?screen_name=gokuinnovates "Follow on Twitter")
 
 <a href="https://gokhansarapevi.github.io"><img src="https://cdn.discordapp.com/attachments/1203065884990644250/1206515379761975316/Goku_Dragon.png?ex=65dc4a02&is=65c9d502&hm=1b448c942ab9b1cc7e504bb1f2b0417ab9124a26e003375f1a41050621527c6b&" align="right" height="310" /></a>
 
