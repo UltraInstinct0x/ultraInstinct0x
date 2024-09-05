@@ -27,18 +27,19 @@ I am currently working on developing Tails for Apple M chips. (parked) & many ot
 <details>
   <summary>Most Used Languages According to my Github :sunrise_over_mountains: </summary>
   
-  <a href="https://ultrainstinct0x.github.io"><img src="https://github.com/ultrainstinct0x/ultrainstinct0x/blob/main/etc/Goku%20Green.png?raw=true" align="right" height="290" /></a>
+  <a href="https://ultrainstinct0x.github.io"><img src="https://github.com/ultrainstinct0x/ultrainstinct0x/blob/main/etc/Goku%20Green.png?raw=true" align="right" height="240" /></a>
   
-  ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gokhansarapevi)
+  ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ultrainstinct0x)
   ----
 </details>
 
 <details>
   <summary>Some of my Github Public Stats :computer:</summary>
   
-  <a href="https://ultrainstinct0x.github.io"><img src="https://github.com/ultrainstinct0x/ultrainstinct0x/blob/main/etc/goku-super-saiyan.png?raw=true" align="right" height="290" /></a>
+  <a href="https://ultrainstinct0x.github.io"><img src="https://github.com/ultrainstinct0x/ultrainstinct0x/blob/main/etc/goku-super-saiyan.png?raw=true" align="right" height="240" /></a>
   <br /> 
-  [![My Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gokhansarapevi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/gokhansarapevi)
+  [![My Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ultrainstinct0x&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/ultrainstinct0x)
+  ----
   
 </details>
 
