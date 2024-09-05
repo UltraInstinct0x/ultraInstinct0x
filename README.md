@@ -11,7 +11,7 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/ultrainstinct0x) 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/TKrvYJjHHw)
 
-<a href="https://ultrainstinct0x.github.io"><img src="https://github.com/ultrainstinct0x/ultrainstinct0x/blob/main/etc/Goku_Dragon.png?raw=true" align="right" height="310" /></a>
+<a href="https://ultrainstinct0x.github.io"><img src="https://github.com/UltraInstinct0x/ultraInstinct0x/blob/main/etc/Goku%20Dragon.png?raw=true" align="right" height="310" /></a>
 
 I am currently working on developing Tails for Apple M chips. (parked) & many other projects. Reach out to learn more! 
 <br>
@@ -27,7 +27,7 @@ I am currently working on developing Tails for Apple M chips. (parked) & many ot
 <details>
   <summary>Most Used Languages According to my Github :sunrise_over_mountains: </summary>
   
-  <a href="https://ultrainstinct0x.github.io"><img src="https://github.com/ultrainstinct0x/ultrainstinct0x/blob/main/etc/Goku_Green.png?raw=true" align="right" height="290" /></a>
+  <a href="https://ultrainstinct0x.github.io"><img src="https://github.com/ultrainstinct0x/ultrainstinct0x/blob/main/etc/Goku%20Green.png?raw=true" align="right" height="290" /></a>
   
   ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gokhansarapevi)
   ----
