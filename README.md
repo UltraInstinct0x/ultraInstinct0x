@@ -2,20 +2,23 @@
 
 ## Hi there, [GOKU](https://ultrainstinct0x.github.io) here 👋🏼👨🏻🌈
 
-[![Gmail Badge](https://img.shields.io/badge/-gokhansarapevi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gokhansarapevi@gmail.com "Connect via Email")
+[![Gmail Badge](https://img.shields.io/badge/-ultrainstinct0x@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ultrainstinct0x@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Gokhan%20Guney-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gokhansarapevi/ "Connect on LinkedIn")
 [![Telegram Badge](https://img.shields.io/badge/-@dball_goku-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/dball_goku "Contact on Telegram")
-[![X Follow](https://img.shields.io/twitter/follow/gokuinnovates?style=flat&logo=X&logoColor=white&color=%2300000)](https://twitter.com/intent/follow?screen_name=gokuinnovates "Follow on Twitter")
+[![X Follow](https://img.shields.io/twitter/follow/0xultrainstinct?style=flat&logo=X&logoColor=white&color=%2300000)](https://twitter.com/intent/follow?screen_name=0xultrainstinct "Follow on Twitter")
+[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://ultrainstinct0x.github.io)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/ultrainstinct0x) 
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/TKrvYJjHHw)
 
 <a href="https://ultrainstinct0x.github.io"><img src="https://cdn.discordapp.com/attachments/1203065884990644250/1206515379761975316/Goku_Dragon.png?ex=65dc4a02&is=65c9d502&hm=1b448c942ab9b1cc7e504bb1f2b0417ab9124a26e003375f1a41050621527c6b&" align="right" height="310" /></a>
 
-I am currently working on developing Tails for Apple M chips. & a discord bot. Reach out to learn more! 
+I am currently working on developing Tails for Apple M chips. (parked) & many other projects. Reach out to learn more! 
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gokhansarapevi&repo=SonGokuBot&theme=tokyonight)](https://github.com/gokhansarapevi/SonGokuBot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ultrainstinct0x&repo=Claude-AI-Prompt-Protocol&theme=tokyonight)](https://github.com/ultrainstinct0x/Claude-AI-Prompt-Protocol)
 <br>
 ## <img src="https://cdn.discordapp.com/emojis/859424401186095114.png" width="20px" height="20px">》Description 
 
-- 📭 [Reach out](#hi-there-Gokhan-here-) for help with Open Source projects!
+- 📭 [Reach out](#hi-there-GOKU-here-) for help with Open Source projects!
 - 💬 Talk to me about literature, rave, and everything in between
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 - 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
