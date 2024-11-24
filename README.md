@@ -8,6 +8,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-@dball_goku-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/dball_goku "Contact on Telegram")
 [![X Follow](https://img.shields.io/twitter/follow/0xultrainstinct?style=flat&logo=X&logoColor=white&color=%2300000)](https://twitter.com/intent/follow?screen_name=0xultrainstinct "Follow on Twitter")
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://ultrainstinct0x.github.io)
+[![streak](https://codeium.com/badges/v2/user/0xultrainstinct/streak)](https://codeium.com/profile/0xultrainstinct)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/ultrainstinct0x) 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/TKrvYJjHHw)
 
