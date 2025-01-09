@@ -30,7 +30,8 @@ I am currently working on developing Tails for Apple M chips. (parked) & many ot
   
   <a href="https://ultrainstinct0x.github.io"><img src="https://github.com/ultrainstinct0x/ultrainstinct0x/blob/main/etc/Goku%20Green.png?raw=true" align="right" height="240" /></a>
   
-  ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ultrainstinct0x)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ultrainstinct0x&theme=tokyonight)
+
   ----
 </details>
 
