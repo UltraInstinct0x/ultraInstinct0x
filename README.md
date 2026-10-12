@@ -1,30 +1,46 @@
-## <a href="https://ultrainstinct0x.github.io"><img src="https://github.com/ultrainstinct0x/ultrainstinct0x/blob/main/etc/header.jpg?raw=true"/></a>
+# Hi, I'm Gokhan — I go by Goku 👋
 
-## Hi there, [GOKU](https://ultrainstinct0x.github.io) here 👋🏼👨🏻🌈
+I build things for myself first: agent infrastructure, local-first AI tooling, and small
+utilities that fix a specific annoyance. I live in Izmir and work as a CRM Analyst, and most of my time outside that goes into self-hosted systems and the tools
+around them.
 
-<!-- [![Gmail Badge](https://img.shields.io/badge/-ultrainstinct0x@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ultrainstinct0x@gmail.com "Connect via Email") -->
-[![CodePen](https://img.shields.io/badge/CodePen-Profile-blue?logo=codepen)](https://codepen.io/ultrainstinct0x)
-[![Linkedin Badge](https://img.shields.io/badge/-Gokhan%20Guney-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gokhang-guney/ "Connect on LinkedIn")
-[![Telegram Badge](https://img.shields.io/badge/@ultrainstinct0x-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/ultrainstinct0x "Contact on Telegram")
-[![X Follow](https://img.shields.io/twitter/follow/0xultrainstinct?style=flat&logo=X&logoColor=white&color=%2300000)](https://twitter.com/intent/follow?screen_name=0xultrainstinct "Follow on Twitter")
+I keep a lot private, so this profile does not represent the whole of what I work on.
+What it does show is the part I have chosen to make public.
 
+## What I work on
 
-I am currently working on developing Tails for Apple M chips. Also a VPN client that just works. 
-## <img src="https://cdn.discordapp.com/emojis/859424401186095114.png" width="20px" height="20px">》Description 
+- **Agent infrastructure and observability** — capturing what an agent actually did:
+  model I/O, tool calls, and human feedback loops. Mostly C++-free plumbing: proxies,
+  collectors, SDKs, plugins, and hooks.
+- **Privacy-aware data handling** — redacting PII and secrets before they leave a
+  process, with EUR/TR rule packs and reversible token mapping.
+- **Local-first and self-hosted software** — my own machines run the stack, so I care
+  about things that work offline, survive restarts, and do not need a vendor.
+- **Media and voice tooling** — transcription, dubbing, and speech pipelines, including
+  Turkish-language work.
 
-- 📭 [Reach out](#hi-there-GOKU-here-) for help with Open Source projects!
-- 💬 Talk to me about literature, rave, and everything in between
-- 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
+## Public repositories worth a look
 
-<details>
-  <summary>My latest blog post :books:</summary>
-<br /> 
-  
-[![Gokhan Guney Medium](https://github-readme-medium.vercel.app/?username=gokhanguney)](https://medium.com/@gokhanguney)
+- **[vlc-auto-dub](https://github.com/UltraInstinct0x/vlc-auto-dub)** — AI-powered video
+  dubbing and transcription extension for VLC. Whisper-based transcription, generated
+  dubs, SRT/video output.
+- **[panel](https://github.com/UltraInstinct0x/panel)** — a feedback layer for agent
+  outputs (MIT). The wider `panel-*` set includes an OpenAI/Anthropic-compatible LLM
+  proxy, an OpenTelemetry collector for agent spans, Python/Node/Go SDKs, and
+  Hermes/OpenCode/Claude Code hooks.
+- **[scrubber-proxy](https://github.com/UltraInstinct0x/scrubber-proxy)** — an HTTP
+  service that redacts PII and secrets (reversible AES-256-GCM token mapping, rule packs
+  for base/eu/tr/medical).
+- **[WorkToJiraEffort](https://github.com/UltraInstinct0x/WorkToJiraEffort)** — Rust
+  daemon that turns screen activity into Jira and Salesforce time entries (MIT).
+- **[schema-evolution-analyzer](https://github.com/UltraInstinct0x/schema-evolution-analyzer)**
+  — Python tool for understanding the impact of database schema changes (MIT).
 
-</details>
+*Forked repositories on this account are other people's work. I am not the author of
+anything I only forked.*
 
+## Elsewhere
 
-[![Profile last updated](https://img.shields.io/github/last-commit/gokhansarapevi/gokhansarapevi/main?label=Last%20updated&style=flat)](https://github.com/ultrainstinct0x/ultrainstinct0x/commits)
-![Profile Views](https://komarev.com/ghpvc/?username=ultrainstinct0x&color=blue)
-----
+- Site: [supersaiyan.dev](https://supersaiyan.dev)
+- X: [@0xultrainstinct](https://twitter.com/0xultrainstinct)
+- LinkedIn: [Gokhan Guney](https://www.linkedin.com/in/gokhang-guney/)
